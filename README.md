@@ -24,7 +24,7 @@ Before deleting
 Deleting item 65
 ![Delete Screenshot](frontend/screenshots/Delete.png)
 After deleting the item its no longer being displayed
-![Delete Screenshot](frontend/screenshots/Delete.png)
+![Delete Screenshot](frontend/screenshots/Delete-After.png)
 
 ## Tech/framework used
 
