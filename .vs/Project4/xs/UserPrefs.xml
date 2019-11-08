@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9FBA05DF-E2B6-4C05-B29C-2891DE673BAD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project4/Startup.cs">
+    <Files>
+      <File FileName="Project4/Startup.cs" Line="10" Column="13" />
+      <File FileName="Project4/Program.cs" />
+      <File FileName="Project4/Models/Products.cs" />
+      <File FileName="Project4/Models/arcsurf_dbContext.cs" />
+      <File FileName="Project4/appsettings.json" />
+      <File FileName="Project4/Controllers/ProductsController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project4" expanded="True">
+            <Node name="Project4" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Project4 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
