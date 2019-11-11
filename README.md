@@ -40,10 +40,11 @@ While thats running open a terminal and
 
 ```bash
 cd frontend
+npm i
 npm run start
 ```
 
-Then they will be communicating with each other.
+Then they will be begin communicating with each other.
 
 
 ## License
