@@ -29,11 +29,22 @@ Deleting a product
 - [.NET](https://docs.microsoft.com/en-us/dotnet/)
 
 ## How to use?
-Clone this repo and then in the C# files I would change the generic connection string I put in the startup file to your DB that you like to connect then from there run the application. While thats running open a terminal and be inside the frontend dir and run 
+Clone this repo and then in the C# files I would change the generic connection string I put in the startup file to your DB that you like to connect then from there run the application. 
+In the terminal run
+
 ```
+cd backend
+dotnet run
+```
+While thats running open a terminal and 
+
+```bash
+cd frontend
 npm run start
 ```
+
 Then they will be communicating with each other.
+
 
 ## License
 
