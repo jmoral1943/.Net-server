@@ -8,15 +8,15 @@ This demonstrates that my front end react application was able to fetch data fro
 ![Read screenshot](./docs/screenshots/Read.png)
 
 ## Create
-Creating a product
+Creating a product   
 ![Create Giphy](./docs/screenshots/create.gif)
 
 ## Update
-Updating a product
+Updating a product  
 ![Update screenshot](./docs/screenshots/update.gif)
 
 ## Delete
-Deleting a product
+Deleting a product  
 ![Delete Screenshot](./docs/screenshots/delete.gif)
 
 
