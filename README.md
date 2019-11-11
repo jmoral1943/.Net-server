@@ -5,19 +5,19 @@ This application has a .NET C# REST API backend that fetches data from a MySQL D
 
 ## Read
 This demonstrates that my front end react application was able to fetch data from my .NET backend
-![Read screenshot](frontend/screenshots/Read.png)
+![Read screenshot](./docs/screenshots/Read.png)
 
 ## Create
 Creating a product
-![Create Giphy](frontend/screenshots/create.gif)
+![Create Giphy](./docs/screenshots/create.gif)
 
 ## Update
 Updating a product
-![Update screenshot](frontend/screenshots/update.gif)
+![Update screenshot](./docs/screenshots/update.gif)
 
 ## Delete
 Deleting a product
-![Delete Screenshot](frontend/screenshots/delete.gif)
+![Delete Screenshot](./docs/screenshots/delete.gif)
 
 
 
